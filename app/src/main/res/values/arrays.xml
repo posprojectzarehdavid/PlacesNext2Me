@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="placetypes">
+        <item>Airport</item>
+        <item>Amusement Park</item>
+        <item>Aquarium</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Bus Station</item>
+        <item>Cafe</item>
+        <item>Church</item>
+        <item>Clothing Store</item>
+        <item>Doctor</item>
+        <item>Fire Station</item>
+        <item>Food</item>
+        <item>Gas Station</item>
+        <item>Supermarket</item>
+        <item>Gym</item>
+        <item>Hospital</item>
+        <item>Night Club</item>
+        <item>Pharmacy</item>
+        <item>Police</item>
+        <item>Restaurant</item>
+        <item>Shopping Mall</item>
+        <item>Subway Station</item>
+    </string-array>
+</resources>

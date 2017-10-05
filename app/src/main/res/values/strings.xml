@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Places Next 2 Me</string>
+    <string name="anzeigen"><u>Auf Karte anzeigen</u></string>
+    <string name="lbl_settings">Einstellungen</string>
+    <string name="lbl_info">Info</string>
+</resources>

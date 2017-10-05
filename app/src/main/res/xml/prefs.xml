@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<EditTextPreference android:key="Radius"
+    android:title="Radius"
+    android:defaultValue="500"
+    android:summary="Geben Sie den Radius ein"
+    android:inputType="number">
+</EditTextPreference>
+    <MultiSelectListPreference android:key="filter"
+        android:title="Filter"
+        android:entries="@array/placetypes">
+    </MultiSelectListPreference>
+</PreferenceScreen>

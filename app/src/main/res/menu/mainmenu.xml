@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Mein Standort"
+        android:id="@+id/action_info"
+        android:icon="@drawable/ic_info_outline_white_24dp"
+        android:showAsAction="always"/>
+    <item android:title="Aktualisieren"
+        android:id="@+id/action_update"
+        android:icon="@drawable/ic_update_white_24dp"
+        android:showAsAction="always"/>
+    <item android:title="Einstellungen"
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:showAsAction="always"/>
+</menu>

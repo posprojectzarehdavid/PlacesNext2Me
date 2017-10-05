@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_868c003d57e35f369c0f5aa3fec3601024234a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6c6497d08d26ceab16d107d59ef939c3365b2b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c9c1423e9333aff4c32114572cd29aa721223342\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_68cd4d0e370fa2607154ed5ed3d9c1971ad0c7a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zareh Hakobian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_690be1d297da6a09fcdb69ef3d1900444bfbfd96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a616853f36fee291c87ac5c0022f84e161710ba5">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_131aee916b68e6d9187a1e95b04a1c6f772e86a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5e7b81de8b71934876e0da41a596edd70c78926">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cc8fe307bddda196aea486c12a2f86eeadb87752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_e1a752100e2c203783d3de47438cd148851507a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_57028381c2ab10c1254ee70eb2f87365cadc2fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_31374e431766b2c3fbe4a30b111beb6f7e20167e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\MyFiles\Schule\5.klasse\SYP\EinrichtungeninderNaehe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_1cef01b360e59a0f9f4234a632d83a0f6ba6fc8c\classes.dex" />
+    </item>
+
+</items>
